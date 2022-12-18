@@ -2,16 +2,10 @@
 <h1 align="center">Hi 👋, I'm HoangSonLe</h1>
 <h3 align="center">A fullstack developer from HCM</h3>
 <img align="right" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = "250px" height= "250px"/>
-<p align="left">
+
 - 🌱 I’m currently learning ASP.Net Core, ReactJs,...
-</p>
-<p align="left">
-- 💬 Ask me about **ASP.Net,ReactJS,...** 
-</p>
-<p align="left">
-- 📫 How to reach me
-**hoangsonle211@gmail.com**
-</p>
+- 💬 Ask me about **ASP.Net,ReactJS,...**
+- 📫 How to reach me **hoangsonle211@gmail.com**
 
 <h3 align="left">## Connect with me:</h3>
 <p align="left">
@@ -24,6 +18,7 @@
             width="40"
     /></a>
 </p>
+
 <h3 align="left">## Social:</h3>
 <p align="left">
 
